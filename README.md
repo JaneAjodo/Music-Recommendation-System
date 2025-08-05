@@ -34,7 +34,7 @@ This project recommends songs based on lyrical similarity using NLP techniques a
 
 ## 📚 Learn More
 
-- [Full Medium Article](#)  
+- [Full Medium Article](https://medium.com/@janeajodo/building-a-music-recommendation-system-using-lyrics-and-streamlit-69adad17ce74) 
   
 
 Built by **Jane Ajodo**  
